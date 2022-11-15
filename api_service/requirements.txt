@@ -1,0 +1,4 @@
+requests
+wikipedia
+flask
+bs4
