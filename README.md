@@ -35,14 +35,11 @@ instructions:
     holds all the imports for the program.
     Thus, the Only steps to set up the the enviorments are:
 
-    1. Create a Log folder that includes 2 files:
-        a. app.log
-        b. schedule.log
-    2. Make sure that PORT 5000 is available.
-    3. To see the solution in a better way, try to use
+    1. Make sure that PORT 5000 is available.
+    2. To see the solution in a better way, try to use
        POSTMAN.
 
-    4. open CMD, and make sure that you have docker on
+    3. open CMD, and make sure that you have docker on
        your computer.
         $ docker
 
